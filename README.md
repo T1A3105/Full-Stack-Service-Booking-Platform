@@ -149,7 +149,7 @@ The project can be deployed on:
 
 ---
 
-## LIVE PROJECT LINK
+🌐 LIVE PROJECT DEMO LINK
 
 https://full-stack-service-booking-platform.onrender.com
 
