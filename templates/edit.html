@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Booking</title>
+</head>
+<body>
+
+<h1>Edit Booking</h1>
+
+<form method="POST">
+    Name: <input type="text" name="name" value="{{ booking.name }}"><br><br>
+    Service: <input type="text" name="service" value="{{ booking.service }}"><br><br>
+    Date: <input type="date" name="date" value="{{ booking.date }}"><br><br>
+
+    <button type="submit">Update</button>
+</form>
+
+</body>
+</html>
