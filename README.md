@@ -139,12 +139,6 @@ The project can be deployed on:
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots here for better presentation)*
-
----
-
 ## 🎯 Key Highlights
 
 * Built a **full-stack web application** using Flask
@@ -154,6 +148,11 @@ The project can be deployed on:
 * Developed a **responsive UI for better user experience**
 
 ---
+
+## LIVE PROJECT LINK
+
+https://full-stack-service-booking-platform.onrender.com
+
 
 ## 📬 Contact
 
